@@ -1,7 +1,12 @@
 <h1 align="center"> Hello! it's me, Carla Soares.<img height = "40" src= "https://static.wikia.nocookie.net/hello-yoshi/images/3/32/Tumblr_moc5vcYfkz1rrftcdo1_500_%281%29.gif/revision/latest?cb=20180429161202"></h1>
 
+##
+
+
+
 <!--- - :telescope: I’m currently working on ...
 - :seedling: I’m currently learning ...
+![download20220905123049](https://user-images.githubusercontent.com/49593099/190696401-3c491f4c-96f5-435d-9266-ee8761619fbf.png)
 - :smile: Pronouns: ...
 - :zap: Fun fact: ...
 --->
@@ -14,7 +19,5 @@
 ##
 
 <div> 
- 
   ![Snake animation](https://github.com/cvsoares/cvsoares/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
