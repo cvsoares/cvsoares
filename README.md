@@ -1,5 +1,6 @@
 <h1 align="center"> Hello! it's me, Carla Soares.<img height = "40" src= "https://static.wikia.nocookie.net/hello-yoshi/images/3/32/Tumblr_moc5vcYfkz1rrftcdo1_500_%281%29.gif/revision/latest?cb=20180429161202"></h1>
 
+<div align="center">Estudante de Engenharia de Controle e Automação na UFMT. Apaixonada por tecnologia, estou sempre em busca de aprendizado para aprimorar as minhas habilidades para alcançar o meu objetivo, que é me tornar desenvolvedora FullStack. Tive experiência como estagiária na área de Engenharia de Software na Creditas Soluções Financeiras em 2022, onde adquiri além de conhecimento, um grande crescimento pessoal. </div>
 <div align="center"> 
 
   ![Snake animation](https://github.com/cvsoares/cvsoares/blob/output/github-contribution-grid-snake.svg)
