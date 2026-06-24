@@ -3,7 +3,7 @@
 <div align="center">Engenheira de Controle e Automação pela UFMT. Me encontrando no mundo da programação, sempre busco aprender novas habilidades para alcançar os meus objetivos para me tornar cientista de dados. </div>
 <div align="center"> 
 
-  ![Snake animation](https://github.com/cvsoares/cvsoares/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/carlavsoares/carlavsoares/blob/output/github-contribution-grid-snake2.svg)
   
 </div>
 
